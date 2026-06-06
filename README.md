@@ -2,7 +2,7 @@
 
 Minimal [Actix Web](https://actix.rs/) example that sends test email through [Mailexam](https://mailexam.ru/) SMTP.
 
-This repository is the reference implementation for the [Actix Web integration guide](https://github.com/mailexam/wiki/blob/main/docs/en/examples/actix.md).
+This repository is the reference implementation for the [Actix Web integration guide](https://wiki.mailexam.ru/en/examples/actix/).
 
 ## Requirements
 
