@@ -1,6 +1,6 @@
 # Actix Web + Mailexam
 
-Minimal [Actix Web](https://actix.rs/) example that sends test email through [Mailexam](https://mailexam.ru/) SMTP.
+Minimal [Actix Web](https://actix.rs/) example that sends test email through [Mailexam](https://mailexam.io/) SMTP.
 
 This repository is the reference implementation for the [Actix Web integration guide](https://wiki.mailexam.ru/en/examples/actix/).
 
@@ -21,7 +21,7 @@ cp .env.example .env
 
 | Variable | Description |
 |----------|-------------|
-| `MAILEXAM_LOGIN` | SMTP login (host becomes `{login}.mailexam.ru`) |
+| `MAILEXAM_LOGIN` | SMTP login (host becomes `{login}.mailexam.io`) |
 | `MAILEXAM_PASSWORD` | SMTP password (paired with the login) |
 | `MAILEXAM_PORT` | SMTP port (default `587`, STARTTLS) |
 | `MAIL_FROM` | Sender address (any test address is fine) |
@@ -60,4 +60,4 @@ src/
 - [Axum reference implementation](https://github.com/mailexam/Axum) — same mail module, different HTTP framework
 - [Actix Web documentation](https://actix.rs/docs/)
 - [lettre documentation](https://docs.rs/lettre/latest/lettre/)
-- [Mailexam API documentation](https://mailexam.ru/api)
+- [Mailexam API documentation](https://mailexam.io/api)
