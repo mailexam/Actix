@@ -58,4 +58,6 @@ src/
 
 - [Mailexam wiki — Actix Web guide](https://wiki.mailexam.ru/en/examples/actix/)
 - [Axum reference implementation](https://github.com/mailexam/Axum) — same mail module, different HTTP framework
+- [Actix Web documentation](https://actix.rs/docs/)
+- [lettre documentation](https://docs.rs/lettre/latest/lettre/)
 - [Mailexam API documentation](https://mailexam.ru/api)
