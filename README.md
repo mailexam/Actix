@@ -61,3 +61,7 @@ src/
 - [Actix Web documentation](https://actix.rs/docs/)
 - [lettre documentation](https://docs.rs/lettre/latest/lettre/)
 - [Mailexam API documentation](https://mailexam.io/api)
+
+## License
+
+Apache 2.0
